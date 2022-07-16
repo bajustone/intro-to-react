@@ -1,0 +1,21 @@
+.contact-item{
+    display: flex;
+    align-items: center;
+}
+.contact-item img{
+    height: 56px;
+    border-radius: 60%;
+
+}
+.contact-item h1, .contact-item h2{
+    margin: 0;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+.contact-label{
+    padding: 10px 10px;
+    border-bottom: 1px solid #cecece;
+}
+.contact-label h2{
+    font-weight: normal;
+}
